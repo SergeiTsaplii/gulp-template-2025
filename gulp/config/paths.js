@@ -1,10 +1,11 @@
 const paths = {
     html: {
-        src: [
-            // 'src/html/**/*._html',
-            'src/pages/*.html'
-        ],
-        dist: 'dist/'
+        src: 'src/pages/*.html',
+        dist: 'dist',
+        watch: [
+            'src/pages/*.html',
+            'src/html/**/*_html'
+        ]
     }
 }
 

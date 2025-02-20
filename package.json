@@ -1,7 +1,6 @@
 {
   "name": "gulp-template-2025",
   "version": "1.0.0",
-  "description": "",
   "main": "gulpfile.js",
   "type": "module",
   "scripts": {
@@ -10,6 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "devDependencies": {
     "gulp": "^5.0.0",
     "gulp-file-include": "^2.3.0"
