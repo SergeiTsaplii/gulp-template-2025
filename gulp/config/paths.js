@@ -14,6 +14,12 @@ const paths = {
             'src/styles/**/*.scss',
             'src/html/**/*.scss'
         ]
+    },
+    scripts: {},
+    images: {
+        src: 'src/images/**/*.*',
+        dist: 'dist/images/',
+        watch: 'src/images/**/*.*'
     }
 }
 
